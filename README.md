@@ -32,3 +32,25 @@ Four Pillars of DevOps:
 
 CAMS Model:  
 <img src="https://squadex.com/wp-content/uploads/2019/04/info-info1-02-1.png">
+
+
+Continuous Integration:  
+Jenkins  
+CircleCI  
+Bamboo  
+Travis  
+
+Continuous Testing:  
+Selenium  
+JMeter  
+TestComplete  
+
+Continuous Monitoring:  
+Kibana  
+Logstash  
+Splunk  
+Eleasticsearch  
+
+Continuous Delivery:  
+Azure  
+AWS  
