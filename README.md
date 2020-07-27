@@ -1,5 +1,14 @@
 # devops_67_intro
-Introduction to DevOps
+Introduction to DevOps  
+
+Four Pillars of DevOps:  
+- Ease of use  
+- Flexibility  
+- Robustness  
+- Cost  
+(Time is money and DevOps saves time)
+
+<img src="https://assets.botmetric.com/wp-content/uploads/2017/11/Ingraphics-devops-to-agile-491x285.png">
 
 1. What is DevOps?  
 - DevOps is the bridge between Development and Operations. DevOps has emerged from applying Agile and Lean frameworks to operations.  
