@@ -30,3 +30,5 @@ Four Pillars of DevOps:
 - Improved customer experience  
 - Aligns IT and business  
 
+CAMS Model:  
+<img src="https://squadex.com/wp-content/uploads/2019/04/info-info1-02-1.png">
