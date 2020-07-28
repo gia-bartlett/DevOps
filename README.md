@@ -54,3 +54,12 @@ Eleasticsearch
 Continuous Delivery:  
 Azure  
 AWS  
+
+
+Is is essential that developers understand what is being asked of them.  
+It is the key to a successful project.  
+Communication is vital between DevOps-Testers-QA  
+- What language is used for this app?  
+- What framework has been used?  
+- Are there any dependencies that need to be installed?  
+- What the app will look like  
