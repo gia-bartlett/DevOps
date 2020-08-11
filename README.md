@@ -1,5 +1,4 @@
-# devops_67_intro
-Introduction to DevOps  
+# Introduction to DevOps  
 
 Four Pillars of DevOps:  
 - Ease of use  
